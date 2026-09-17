@@ -1,0 +1,1 @@
+# Esta sesion sera para aprender el uso de variables 
